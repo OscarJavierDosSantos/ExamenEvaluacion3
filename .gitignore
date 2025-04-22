@@ -1,7 +1,6 @@
 *.xls*
 _entregas
 uploads
-*.test.*
 
 *-lock.json
 *.code-workspace
